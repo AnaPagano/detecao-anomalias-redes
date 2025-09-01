@@ -36,4 +36,4 @@ UNSW-NB15 (ACCS). Arquivos usados: `UNSW_NB15_training-set.csv` e `UNSW_NB15_tes
 - Futuro: aplicar balanceamento de classes e testar deep learning.
 
 ## 👩‍💻 Autores
-Adriana Pagano e equipe
+Ana Pagano
