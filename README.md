@@ -13,7 +13,7 @@ UNSW-NB15 (ACCS). Arquivos usados: `UNSW_NB15_training-set.csv` e `UNSW_NB15_tes
    pip install -r requirements.txt
    ```
 2. Rode no Google Colab abrindo o notebook:  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU-USUARIO/detecao-anomalias-redes/blob/main/notebook.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AnaPagano/detecao-anomalias-redes/blob/main/notebook2materiacomputadores.ipynb)
 
 ## 🚀 Estrutura do projeto
 ```
