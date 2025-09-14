@@ -26,9 +26,11 @@ UNSW-NB15 (ACCS). Arquivos usados: `UNSW_NB15_training-set.csv` e `UNSW_NB15_tes
 ```
 
 ## 📊 Resultados (resumo)
-- Random Forest → Precisão e Recall > 98%, ROC-AUC ≈ 1.00  
-- Isolation Forest → bom recall, mas muitos falsos positivos  
-- One-Class SVM → desempenho inferior neste dataset  
+Colocar 100% (precisão, recall, F1, ROC-AUC) para o Random Forest.
+
+Manter IF e OCSVM como estão.
+
+Se quiser, incluir também o RF+SMOTE (mesmo desempenho).
 
 ## 📝 Conclusões
 - Algoritmos supervisionados (Random Forest) tiveram melhor desempenho.  
