@@ -13,10 +13,8 @@ UNSW-NB15 (ACCS). Arquivos usados: `UNSW_NB15_training-set.csv` e `UNSW_NB15_tes
    pip install -r requirements.txt
    ```
 2. Rode no Google Colab abrindo o notebook:  
-   [[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/AnaPagano/detecao-anomalias-redes/blob/main/NOTEBOOK_FINAL.ipynb
-)](https://colab.research.google.com/github/AnaPagano/detecao-anomalias-redes/blob/main/Detec%C3%A7%C3%A3o_de_Anomalias_em_Redes_de_Computadores_(UNSW_NB15).ipynb)](https://colab.research.google.com/github/AnaPagano/detecao-anomalias-redes/blob/main/Detecção%20de%20Anomalias%20em%20Redes%20de%20Computadores%20(UNSW-NB15).ipynb
-)
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AnaPagano/detecao-anomalias-redes/blob/main/Dete%C3%A7%C3%A3o_de_Anomalias_em_Redes_de_Computadores_(UNSW_NB15).ipynb)
+
 
 
 ##  Estrutura do projeto
