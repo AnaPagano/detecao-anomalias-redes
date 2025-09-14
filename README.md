@@ -16,7 +16,6 @@ UNSW-NB15 (ACCS). Arquivos usados: `UNSW_NB15_training-set.csv` e `UNSW_NB15_tes
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/AnaPagano/detecao-anomalias-redes/blob/main/NOTEBOOK-FINAL.ipynb
 )
-re
 
 
 ##  Estrutura do projeto
