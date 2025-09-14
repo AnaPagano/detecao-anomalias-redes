@@ -26,7 +26,7 @@ detecao-anomalias-redes/
 ├── Figuras/                  
 ├── .gitignore
 ├── LICENSE
-├── NOTEBOOK-FINAL.ipynb      
+├── NOTEBOOK-FINAL(3).ipynb      
 ├── README.md
 ├── requirements.txt          
 ```
